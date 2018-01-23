@@ -3,7 +3,7 @@
 > Assignments to guide you through your career transition into tech
 
 ## Career Launch Strategy
-All of your Code Fellows courses will focus on the importance of being a professional to prepare you for the job market.
+All of your Alchemy Code Lab courses will focus on the importance of being a professional to prepare you for the job market.
 
 To obtain employment, it is vital that your professional pitch is ready, you understand the power of your network, how to target companies for placement, you have your materials ready, and you show excellent professional competence. Our curriculum is built in collaboration with industry partners, who are committed to bringing people from all backgrounds into the tech workforce. They have shared with us the insider secrets and best practices of how to land a great job in tech. We have aggregated and synthesized this knowledge into a guide to attaining employment, with step by step assignments utilizing internal and external resources, in parallel with your technical training at Code Fellows. 
 
