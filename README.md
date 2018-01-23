@@ -1,4 +1,4 @@
-# Career Coaching at Code Fellows
+# Career Coaching at Alchemy Code Lab
 
 > Assignments to guide you through your career transition into tech
 
