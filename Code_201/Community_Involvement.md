@@ -14,7 +14,6 @@ Meetups take a couple of different flavors.
 You've got your monthly-ish local area meetings, and you've got your more-regular programming nights.
 At the monthly-ish meetings you'll see local programmers give short or long talks about whatever strikes their fancy.
 You'll learn about new topics in the field, or get reinforced on some common problems that programmers face.
-You'll even get fed and maybe a bit of booze to top it off.
 Finally, and most importantly, it's your first real networking opportunity as a developer.
 Concerned that you don't know enough or aren't skilled enough to "deserve" to be a part?
 It's ok, meetups are oftentimes very welcoming to beginners!
@@ -26,17 +25,44 @@ Oftentimes the people that attend these programming nights go just so they can m
 
 ## Where to Find/Which Ones to Attend?
 
-[Meetup.com](http://www.meetup.com) is a great site for finding a local meetup, and there's a group for most sides of programming.
+[Calagator](https://calagator.org) Is an excellent resource to discover additional tech meetups around Portland. 
+
+[Portland Tech Jobs](http://portlandtech.org/) Also lists events, but is an even better place for researching companies in town by tech stack or job role. 
+
+[Meetup.com](http://www.meetup.com) is a great site for finding a local meetup, and there's a group for most technologies or tech topics you may be interested in.
 Here are a few:
 
-- [SeattleJS Hackers](https://www.meetup.com/seattlejshackers/): an open and inclusive after-hours community of JavaScript hackers who learn and hack in JavaScript together. We are entrepreneurs, creatives, professionals, tinkerers, computer scientists, educators, marketers, and more -- all working to ignite and amplify our personal productivity and collaboration.
-- [Puget Sound Programming Python (PuPPy)](https://www.meetup.com/PSPPython/): A fun and friendly user group dedicated to proliferating a diverse and talented Python community in the Puget Sound region. We are devoted to exploring Python-based programming knowledge, embracing new and experienced members from all walks of life, and helping those members to achieve their professional goals.
-- [Seattle PyLadies](https://www.meetup.com/Seattle-PyLadies/): A Python programming group that welcomes ladies (or those who identify themselves as such) from all over the Puget Sound region. PyLadies is an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Anyone with an interest in Python is encouraged to participate! Men are welcome at our meetup events! We appreciate our PyLaddie allies.
-- [Seattle Javascript Workshop](https://www.meetup.com/seajsws/): A monthly workshop for coders to learn from each other and ask questions as needed. Coders bring his own project, book, or tutorial. A hacknight for coders to work on open source projects together, learn and solve some real world problems.
-- [Bothell Web Developers Meetup](https://www.meetup.com/Bothell-Web-Developers-Meetup): Apply your programming skills to personal projects you want to tackle, share ideas with fellow developers, and deepen your knowledge of web development programming. Whether you are new to the field or have years of experience, we welcome anyone who has a passion to become a better developer and tackle challenging problems. Use this time to focus on your own projects or talk with other developers.
-- [Seattle Software Craftsmanship Community](https://www.meetup.com/seattle-software-craftsmanship/): We are a community of software professionals who are passionate about our craft and are committed to learning better ways of doing what we do, sharing with others, and growing as professionals in the process.
-- [Seattle University Web Developers Meetup](https://www.meetup.com/Seattle-University-Web-Developers-Meetup/): This group is open to all, regardless of whether you are a Seattle University student or alum. Join us to talk about all topics related to web development. We welcome novice and experienced web developers alike.
-- [Beer && Code](https://www.meetup.com/Beer-Code-Seattle/): Whether you are new developer, a veteran, a designer, or none of those, you can hang out at Beer && Code. It's an unstructured night of fun, programming, and drinking. BYOB (or other favorite beverage), a computer and your forever project.
+- [Women Who Code Portland](https://www.meetup.com/Women-Who-Code-Portland/): Women Who Code is a global nonprofit dedicated to inspiring women to excel in technology careers by creating a global, connected community of women in technology.
+
+- Monthly Networking Nights
+- Study Nights (JavaScript, DevOps, Design + Product, Algorithms, and Open Source)
+- Technical Workshops
+- Community Events (Hidden Figures screening, Women Who Strength Train, Happy Hours, etc.)
+- Free or discounted tickets to conferences
+- [PDX Women In Technology](https://www.meetup.com/Portland-Women-in-Technology/): We are a community-based non-profit organization. Our purpose is to strengthen the Portland women in tech community. We encourage women and other under-represented groups who are in or around tech and their allies to join us! Trans and non-binary people are always welcome. PDXWIT hosts excellent job seeker networking events. They fill up quickly, so RSVP in advance.
+- [Portland ReactJS](https://www.meetup.com/Portland-ReactJS/): This is a group for anyone who has experience working with the Facebook React library or would like to learn more about it. We (usually) host meetings on a monthly basis. There is room for reactivists to share their war stories, give lightning talks, share cool tricks/projects and more.
+
+- [PyLadies PDX](https://www.meetup.com/PyLadies-PDX/): We are a social/professional group for women who are Python programmers at every experience level, in the Portland, OR area. Developers and aspiring developers, please! Find us on Twitter @PyLadies_PDX. We have guides and other set-up materials on Github (https://github.com/pyladiespdx) as well.
+
+    We typically meet every other Tuesday and most Saturdays, and we host three types of meetings:
+
+* All women welcome, wholly inclusive of trans women
+
+* Women and their invited guests
+
+* All are welcome
+
+* Please check the meeting description to determine which type of meeting we're having.
+
+- [DonutJS](https://donutjs.club/): Founded in April 2016, Donut.js is a monthly meetup and talk series focused on creating a fun, inclusive, and supportive tech community in Portland, Oregon. 
+* We feature three to four speakers each month. We aim to feature one technical talk, one creative talk, and one passion talk, though most talks usually aren’t so narrow.
+* Our talks cover a wide range of topics: introductions to programming languages and deep dives on development methodologies, people-focused project management and sustainable hiring practices, mental health in tech, accessibility on the web, using JavaScript to make music an art in the browser, and much more.
+* We’ve proudly hosted many first-time speakers and well-known personalities in tech.
+
+---
+
+
+---
 
 ## Submitting Your Assignment
 
