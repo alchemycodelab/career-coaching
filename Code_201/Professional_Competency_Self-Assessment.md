@@ -8,7 +8,7 @@ As a professional you are expected to show our staff and potential employers the
 
 You will be evaluating yourself on these competencies and proficiencies during each course and receiving feedback from your instructor on your blind-spots and areas that need improvement in efforts to support your journey to land a job in tech.
 
-***[Complete the self-assessment form here](https://docs.google.com/forms/d/e/1FAIpQLSenWXMwGGjzgDsXwCi3hw0eJ4oLNPMbdJIP1OGdULMrpYQn9w/viewform?usp=sf_link)***, and identify your top three areas of strength, and your top three areas for growth.
+***[Complete the self-assessment form here](https://goo.gl/forms/A7gFljI5OVSzGgdV2)***, and identify your top three areas of strength, and your top three areas for growth.
 
 ---
 
