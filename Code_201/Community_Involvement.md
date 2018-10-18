@@ -54,7 +54,7 @@ Here are a few:
 
 * Please check the meeting description to determine which type of meeting we're having.
 
-- [DonutJS](https://donutjs.club/): Founded in April 2016, Donut.js is a monthly meetup and talk series focused on creating a fun, inclusive, and supportive tech community in Portland, Oregon. 
+- [DonutJS](https://donutjs.club/): Founded in April 2016, Donut.js is a monthly meetup and talk series focused on creating a fun, inclusive, and supportive tech community in Portland, Oregon. **And they're held here at Alchemy on the last Tuesday of each month!**
 * We feature three to four speakers each month. We aim to feature one technical talk, one creative talk, and one passion talk, though most talks usually aren’t so narrow.
 * Our talks cover a wide range of topics: introductions to programming languages and deep dives on development methodologies, people-focused project management and sustainable hiring practices, mental health in tech, accessibility on the web, using JavaScript to make music an art in the browser, and much more.
 * We’ve proudly hosted many first-time speakers and well-known personalities in tech.
@@ -66,10 +66,12 @@ Here are a few:
 
 ## Submitting Your Assignment
 
-Before the end of the course, you are to attend one meetup event at one of the above (or other related) meetup groups.
+We want you to network and grow your community, and want you to start doing so in the next four weeks. However, it often takes some time to get comfortable networking, so we want you to get your feet wet and attend a few meetups. Your goal for the meetups this time around is to really observe the atmosphere, listen to talks if they have them, and get a feel for the community you dropped in on. Often times, it takes a few times at a networking event to start to interact and build your community, so we'd just like you to observe at the very least. Once you're in Bootcamp II, you'll have more technical knowledge to start talking tech! You'll have already developed one app, and well on your way to start your second. 
+
+Before the end of the course, you are to attend two meetup events at one of the above (or other related) meetup groups.
 Take a screenshot of **your** RSVP to the meetup group event.
 You are to include this screenshot as a file upload along with your report of the event, outlined below.
 
-**If you went to a larger monthy meetup:** Submit in text the titles of the talks you heard and (at least) two people you met, where (if) they work, and what they do there. Write about what you found interesting (or uninteresting) about the subject matter of the talks, as well as anything else notable about the meetup.
+**If you went to a larger monthy meetup:** Submit in text the titles of the talks you heard. Write about what you found interesting (or uninteresting) about the subject matter of the talks, as well as anything else notable about the meetup.
 
-**If you went to a programming/hack night:** Submit in text what you worked on, (at least) two people you met, where they work, and what they do there. If you had any interesting conversations or anyone provided you with some significant help, note that as well.
+**If you went to a programming/hack night:** Submit in text what you worked on, and if you had any interesting conversations or anyone provided you with some significant help, note that as well.
