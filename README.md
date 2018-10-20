@@ -1,6 +1,8 @@
 
 # Career Coaching at Alchemy Code Lab
 
+*Please read through the information on this page and complete the self assessment at the end. Put YOUR email address in one line, and shannon@alchemycodelab.com in the other. When you receive your results, jot down your top 3 and lowest 3 competencies in the assignment and provide a brief reason you think this is and what you can do to bring up your lowest competencies. 
+
 ## Career Launch Strategy
 All of your Alchemy Code Lab courses will focus on the importance of being a professional to prepare you for the job market. We'll connect the WHY of what you are doing here with how it will help you be successful in a career after you are finished with Alchemy. In the next four weeks, we want you to think about what you can do to be a professional who can ask the right questions and be a contributor when you go on to your first job.
 
@@ -46,4 +48,80 @@ Career Coaching covers these 7 interrelated areas of your professional growth:
 
 1. Behavioral interview questions:
     - Summarizing your previous experience to show your preparedness for your next job
+
+# Professional Competency Self-Assessment
+
+Learn and understand the terms from the master list of competencies.
+
+As a professional you are expected to show our staff and potential employers the ability to exercise these professional competencies and proficiencies. Employers want excellence - not casual. Lacking in these areas is the number one obstacle to getting placed.
+
+You will be evaluating yourself on these competencies and proficiencies during each course and receiving feedback from your instructor on your blind-spots and areas that need improvement in efforts to support your journey to land a job in tech.
+
+***[Complete the self-assessment form here](https://goo.gl/forms/A7gFljI5OVSzGgdV2)***, and identify your top three areas of strength, and your top three areas for growth. *Put YOUR email address in one line, and shannon@alchemycodelab.com in the other. When you receive your results, jot down your top 3 and lowest 3 competencies in the assignment and provide a brief reason you think this is and what you can do to bring up your lowest competencies. 
+
+---
+
+The **Business Acumen** competency is informed by these proficiencies:
+
+- Mission and Vision Alignment
+- Customer/Client Satisfaction
+
+The **Communication** competency is informed by these proficiencies:
+
+- Reading
+- Writing
+- Speaking
+
+The **Craft** competency is informed by these proficiencies:
+
+- Technical
+- Process
+- Innovation
+- Tool Proficiency
+
+The **Growth Mindset** competency is informed by these proficiencies:
+
+- Adaptability
+- Curiosity
+- Constant Improvement
+- Handling Ambiguity
+- Inclusivity
+- Openness
+- Ambition and Initiative
+
+The **Leadership** competency is informed by these proficiencies:
+
+- Accountability
+- Integrity
+- Ownership
+- Mentorship
+- Networking
+- Succession
+- Health and Safety
+- Confidence
+- Credibility
+
+The **Quality** competency is informed by these proficiencies:
+
+- Judgement
+- Root Cause Resolution
+
+The **Results** competency is informed by these proficiencies:
+
+- Agile
+- Organizational
+- Creative
+- Project Execution
+- Analytical Thinking
+- Prioritization
+- Problem Solving
+- Incremental Delivery
+- Decision Making
+- Appropriate Autonomy
+- Planning and Estimating
+- Dependability and Reliability
+
+The **Teamwork** competency is informed by these proficiencies:
+
+- Collaboration
 
