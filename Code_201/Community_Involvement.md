@@ -34,11 +34,12 @@ Here are a few:
 
 - [Women Who Code Portland](https://www.meetup.com/Women-Who-Code-Portland/): Women Who Code is a global nonprofit dedicated to inspiring women to excel in technology careers by creating a global, connected community of women in technology.
 
-- Monthly Networking Nights
-- Study Nights (JavaScript, DevOps, Design + Product, Algorithms, and Open Source)
-- Technical Workshops
-- Community Events (Hidden Figures screening, Women Who Strength Train, Happy Hours, etc.)
-- Free or discounted tickets to conferences
+    - Monthly Networking Nights
+    - Study Nights (JavaScript, DevOps, Design + Product, Algorithms, and Open Source)
+    - Technical Workshops
+    - Community Events (Hidden Figures screening, Women Who Strength Train, Happy Hours, etc.)
+    - Free or discounted tickets to conferences
+    
 - [PDX Women In Technology](https://www.meetup.com/Portland-Women-in-Technology/): We are a community-based non-profit organization. Our purpose is to strengthen the Portland women in tech community. We encourage women and other under-represented groups who are in or around tech and their allies to join us! Trans and non-binary people are always welcome. PDXWIT hosts excellent job seeker networking events. They fill up quickly, so RSVP in advance.
 - [Portland ReactJS](https://www.meetup.com/Portland-ReactJS/): This is a group for anyone who has experience working with the Facebook React library or would like to learn more about it. We (usually) host meetings on a monthly basis. There is room for reactivists to share their war stories, give lightning talks, share cool tricks/projects and more.
 
@@ -46,18 +47,17 @@ Here are a few:
 
     We typically meet every other Tuesday and most Saturdays, and we host three types of meetings:
 
-* All women welcome, wholly inclusive of trans women
-
-* Women and their invited guests
-
-* All are welcome
+    - All women welcome, wholly inclusive of trans women
+    - Women and their invited guests
+    - All are welcome
 
 * Please check the meeting description to determine which type of meeting we're having.
 
 - [DonutJS](https://donutjs.club/): Founded in April 2016, Donut.js is a monthly meetup and talk series focused on creating a fun, inclusive, and supportive tech community in Portland, Oregon. **And they're held here at Alchemy on the last Tuesday of each month!**
-* We feature three to four speakers each month. We aim to feature one technical talk, one creative talk, and one passion talk, though most talks usually aren’t so narrow.
-* Our talks cover a wide range of topics: introductions to programming languages and deep dives on development methodologies, people-focused project management and sustainable hiring practices, mental health in tech, accessibility on the web, using JavaScript to make music an art in the browser, and much more.
-* We’ve proudly hosted many first-time speakers and well-known personalities in tech.
+
+    - We feature three to four speakers each month. We aim to feature one technical talk, one creative talk, and one passion talk, though most talks usually aren’t so narrow.
+    - Our talks cover a wide range of topics: introductions to programming languages and deep dives on development methodologies, people-focused project management and sustainable hiring practices, mental health in tech, accessibility on the web, using JavaScript to make music an art in the browser, and much more.
+    - We’ve proudly hosted many first-time speakers and well-known personalities in tech.
 
 ---
 
