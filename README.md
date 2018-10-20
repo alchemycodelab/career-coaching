@@ -1,7 +1,7 @@
 
 # Career Coaching at Alchemy Code Lab
 
-*Please read through the information on this page and complete the self assessment at the end. Put YOUR email address in one line, and shannon@alchemycodelab.com in the other. When you receive your results, jot down your top 3 and lowest 3 competencies in the assignment and provide a brief reason you think this is and what you can do to bring up your lowest competencies. 
+*Please read through the information on this page and complete the self assessment at the end. Put YOUR email address in one line, and shannon@alchemycodelab.com in the other. When you receive your results, jot down your top 3 and lowest 3 competencies in the assignment and provide a brief reason you think this is and what you can do to bring up your lowest competencies.* 
 
 ## Career Launch Strategy
 All of your Alchemy Code Lab courses will focus on the importance of being a professional to prepare you for the job market. We'll connect the WHY of what you are doing here with how it will help you be successful in a career after you are finished with Alchemy. In the next four weeks, we want you to think about what you can do to be a professional who can ask the right questions and be a contributor when you go on to your first job.
@@ -57,7 +57,7 @@ As a professional you are expected to show our staff and potential employers the
 
 You will be evaluating yourself on these competencies and proficiencies during each course and receiving feedback from your instructor on your blind-spots and areas that need improvement in efforts to support your journey to land a job in tech.
 
-***[Complete the self-assessment form here](https://goo.gl/forms/A7gFljI5OVSzGgdV2)***, and identify your top three areas of strength, and your top three areas for growth. *Put YOUR email address in one line, and shannon@alchemycodelab.com in the other. When you receive your results, jot down your top 3 and lowest 3 competencies in the assignment and provide a brief reason you think this is and what you can do to bring up your lowest competencies. 
+***[Complete the self-assessment form here](https://goo.gl/forms/A7gFljI5OVSzGgdV2)***, and identify your top three areas of strength, and your top three areas for growth. *Put YOUR email address in one line, and shannon@alchemycodelab.com in the other. When you receive your results, jot down your top 3 and lowest 3 competencies in the assignment and provide a brief reason you think this is and what you can do to bring up your lowest competencies.* 
 
 ---
 
