@@ -1,8 +1,6 @@
 
 # Career Coaching at Alchemy Code Lab
 
-> Assignments to guide you through your career transition into tech
-
 ## Career Launch Strategy
 All of your Alchemy Code Lab courses will focus on the importance of being a professional to prepare you for the job market. We'll connect the WHY of what you are doing here with how it will help you be successful in a career after you are finished with Alchemy. In the next four weeks, we want you to think about what you can do to be a professional who can ask the right questions and be a contributor when you go on to your first job.
 
